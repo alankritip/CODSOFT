@@ -1,0 +1,8 @@
+/* implementinf styling all over the document */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
