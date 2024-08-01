@@ -20,7 +20,7 @@ header h1{
     padding-top: 35px;    
 }
 header p{
-    color:#073e5a;
+    color:#153448;
     font-weight: 400;
     font-size: 25px;
     padding-bottom: 20px;
@@ -47,4 +47,19 @@ header p{
     padding: 10px;
     font-size: 55px;
     color:#0C1844;
+    font-style:oblique;
+    line-height: 1.2;
+}
+.skills{
+    text-align: center;
+}
+.skills h2{
+    margin: 70px 70px 0px 70px;
+    padding-bottom: 10px;
+    font-size: 50px;
+    color: #153448;
+}
+.skills p{
+    font-size: 25px;
+    font-style: oblique;
 }
