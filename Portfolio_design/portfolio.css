@@ -85,3 +85,22 @@ header p{
     text-align: center;
     padding: 20px 0px 20px 0px;
 }
+.resume h2{
+    margin: 70px 70px 0px 70px;
+    padding-bottom: 30px;
+    font-size: 50px;
+    color: #153448;
+    text-align: center;
+    text-decoration: underline 2px #102C57;
+}
+.resume p{
+    font-size: 25px;
+    font-style: oblique;
+    text-align: center;
+    padding: 0px 0px 20px 0px;
+}
+.resume p a{
+    text-decoration: none;
+    color:#102C57;
+    font-size: 35px;
+}
