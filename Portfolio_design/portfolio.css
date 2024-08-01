@@ -5,4 +5,46 @@
     font-family: "Josefin Sans", sans-serif;
     font-weight: 400;
     font-style: normal;
+    background-color: #D4BDAC;
+}
+/* styling header */
+header{
+    text-align: center;
+    padding: 2px;
+    height: 150px;
+}
+header h1{
+    color: #102C57;
+    font-weight: 600;
+    font-size: 90px;
+    padding-top: 35px;    
+}
+header p{
+    color:#073e5a;
+    font-weight: 400;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.about{
+    margin-top: 70px;
+    margin-left: 8%;
+    margin-bottom: 20px;
+    display: flex;
+}
+.about img{
+    width: 300px;
+    border:#102C57 solid 20px; 
+    border-radius: 50px;
+}
+.desc {
+    width: 800px;
+    height: 250px;
+    display: flex;
+    display: inline-block;
+    margin-left:50px;
+    text-align: center;
+    align-content: center;
+    padding: 10px;
+    font-size: 55px;
+    color:#0C1844;
 }
