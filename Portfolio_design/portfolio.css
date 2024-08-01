@@ -99,8 +99,37 @@ header p{
     text-align: center;
     padding: 0px 0px 20px 0px;
 }
+.resume p:hover{
+    text-decoration: underline black 1.5px;
+}
 .resume p a{
     text-decoration: none;
     color:#102C57;
     font-size: 35px;
+}
+.contacts h2{
+    margin: 30px 70px 0px 70px;
+    padding-bottom: 30px;
+    font-size: 50px;
+    color: #153448;
+    text-align: center;
+    text-decoration: underline 2px #102C57;
+}
+.contact {
+    font-size: 25px;
+    font-style: oblique;
+    text-align: center;
+    padding: 0px 0px 20px 0px;
+}
+.contact a{
+    text-decoration: none;
+    color:#102C57;
+    font-size: 35px;
+    line-height: 60px;
+}
+.contact a:hover{
+    text-decoration: underline black 1.5px;
+}
+.contact a i{
+    padding: 15px;
 }
