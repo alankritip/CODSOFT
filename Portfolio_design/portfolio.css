@@ -58,8 +58,30 @@ header p{
     padding-bottom: 10px;
     font-size: 50px;
     color: #153448;
+    text-decoration: underline 2px #102C57;
 }
 .skills p{
     font-size: 25px;
     font-style: oblique;
+}
+.projects h2{
+    margin: 70px 70px 0px 70px;
+    padding-bottom: 50px;
+    font-size: 50px;
+    color: #153448;
+    text-align: center;
+    text-decoration: underline 2px #102C57;
+}
+.projects img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  border-radius: 15px;
+}
+.projects p{
+    font-size: 25px;
+    font-style: oblique;
+    text-align: center;
+    padding: 20px 0px 20px 0px;
 }
