@@ -7,3 +7,12 @@
     font-weight: 700;
     font-style: normal;
 }
+/* styling body of calculator */
+body{
+    width: 100vh;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(45deg,#201E43,#134B70,#134B70,#201E43);
+}
