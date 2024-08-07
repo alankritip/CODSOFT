@@ -35,10 +35,11 @@ input{
     font-size: 35px;
     text-align: right;
     cursor: pointer;
+    color:#ade8f4 ;
 }
 /* styling placeholder */
 input::placeholder{
-    color: #fff;
+    color: #ade8f4;
 }
 /* styling buttons */
 button{
